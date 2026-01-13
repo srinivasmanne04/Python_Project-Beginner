@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Allow Folders
+!Advanced/
+!Beginner/
+!Beginner/**
+!Intermediate/
+
+# Allow Git files
+!.gitignore
+!README.md
+!LICENSE
